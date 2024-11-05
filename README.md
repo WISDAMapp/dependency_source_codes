@@ -6,14 +6,17 @@ For QT's source code these are zip files of the cloned repositories while for li
 Under Licenses you will find license texts of the components which source codes are provided here.
 
 None of the source code provided is modified.
+
 Within WISDAM development no building was done and all python packages with the dependent binaries are installed via pip from [PyPi](https://pypi.org/).
+
 https://pypi.org/project/PySide6/6.8.0/ which is a wheel with binaries for PySide6/Shiboken6 and QT6
+
 https://pypi.org/project/rawpy/0.23.2/ which contains a binary wheel of LibRaw 
 
-## LibRAW
+## LibRAW (LGPLv2)
 LibRaw-0.21.3.zip contains the LibRAW Version 0.21.3 source code provided at https://www.libraw.org/
 
-## QT6 and PySide6/Shiboken6
+## QT6 and PySide6/Shiboken6 (GPLv3)
 qt6_6_8_0.zip is a clone of the corresponding source code for QT6 Version 6.8.0 and contains build instructions.
 The QT6 source code can also be found under https://code.qt.io/cgit/qt/qt5.git/
 
