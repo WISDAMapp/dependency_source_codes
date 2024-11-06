@@ -13,7 +13,7 @@ https://pypi.org/project/PySide6/6.8.0/ which is a wheel with binaries for PySid
 
 https://pypi.org/project/rawpy/0.23.2/ which contains a binary wheel of LibRaw 
 
-## LibRAW (LGPLv2)
+## LibRAW (LGPLv2.1)
 LibRaw-0.21.3.zip contains the LibRAW Version 0.21.3 source code provided at https://www.libraw.org/
 
 ## QT6 and PySide6/Shiboken6 (GPLv3)
