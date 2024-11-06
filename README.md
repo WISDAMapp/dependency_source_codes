@@ -1,6 +1,6 @@
-# Source code of external dependecies to comply with GPLv3
+# Source code of libraries to comply with GPL
 
-Here you will find source code in zipped form of software libraries under GPL which are obligatory to provide if distributing binaries.
+Here you will find source code in zipped form for software libraries under GPL which are used within WISDAM, which is obligatory to provide if distributing binaries.
 Building instructions are explained within the source code.
 For QT's source code these are zip files of the cloned repositories while for libraw its direct downloaded from their website
 Under Licenses you will find license texts of the components which source codes are provided here.
